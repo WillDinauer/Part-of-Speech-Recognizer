@@ -8,7 +8,7 @@ import java.util.*;
  *
  * @author William Dinauer and Erich Woo, Dartmouth CS 10, Winter 2020
  */
-public class PS5 {
+public class POS_Recognizer {
 
     private Map<String, Map<String, Double>> transitions;
     private Map<String, Map<String, Double>> observations;
