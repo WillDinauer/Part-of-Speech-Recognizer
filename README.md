@@ -52,4 +52,6 @@ You/PRO can/MOD cook/V many/PRO
 To assess how good a model is, we compute how many tags it gets right and how many it gets wrong on some test sentences. Tests files are located in the `inputs/` folder.
 Sentences are tagged using the trained model and applying the Viterbi Algorithm.
 
-Each test tracks the number of correct and incorrect tags, reporting the accuracy for the given training and test set.
+Each test tracks the number of correct and incorrect tags, reporting the accuracy for the given training and test set. For example, here are the results for the `Simple` and `Brown` text sets:
+
+![TextTests](https://github.com/WillDinauer/Part-of-Speech-Recognizer/assets/77174175/074cc05c-6fb5-4e51-a7f1-d0c74c6562aa)
